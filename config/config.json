@@ -1,0 +1,21 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "passport_demo",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "dialect": "mysql"
+  }
+}
