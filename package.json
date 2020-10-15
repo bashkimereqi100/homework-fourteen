@@ -1,9 +1,28 @@
 {
-  "name": "Passport-Example",
-  "description": "",
-  "main": "server.js",
+  "name": "homework-fourteen",
+  "version": "1.0.0",
+  "description": "reverse engineering authentication",
+  "main": "login.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "watch": "nodemon server.js"
+    "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashkimereqi100/homework-fourteen.git"
+  },
+  "keywords": [
+    "reverse",
+    "engineering",
+    "authentication",
+    "package.json",
+    "npm.init"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bashkimereqi100/homework-fourteen/issues"
+  },
+  "homepage": "https://github.com/bashkimereqi100/homework-fourteen#readme"
+}
+
